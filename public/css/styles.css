@@ -1,6 +1,6 @@
 html {
   background-color: #E4E9FD;
-  background-image: -webkit-linear-gradient(65deg, #ea9a60 50%, #f7d8c1 50%);
+  background-image: -webkit-linear-gradient(60deg, #ea9a60 60%, #f7d8c1 40%);
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
@@ -61,7 +61,7 @@ button {
   width: 50px;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #71c9ce;
+  background-color: #ea9a60;
   color: #fff;
   font-size: 30px;
   padding-bottom: 6px;
@@ -81,7 +81,7 @@ input[type="text"] {
 
 input[type="text"]:focus {
   outline: none;
-  box-shadow: inset 0 -3px 0 0 #679b9b;
+  box-shadow: inset 0 -3px 0 0 #ea9a60  ;
 }
 
 ::placeholder {
